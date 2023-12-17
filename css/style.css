@@ -112,6 +112,8 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .links {
+    position: absolute;
+    bottom: 0;
     display: -webkit-flex;
     display: -moz-flex;
     display: -ms-flex;
