@@ -24,7 +24,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .body-main {
-    background: url(../fonFP.jpg);
+    background: url(fonFP.jpg);
     background-position: center;
     -webkit-background-size: cover;
     background-size: cover;
