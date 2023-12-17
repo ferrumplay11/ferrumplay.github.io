@@ -47,7 +47,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .logo a {
-    color: rgba(255,255,255,1);
+    color: rgba(255,255,255,0.8);
     text-decoration: none;
     font-size: 20px;
     font-weight: 700;
@@ -129,7 +129,6 @@ h1,h2,h3,h4,h5,h6 {
 
 .links a {
     color: rgba(255,255,255,1);
-
     text-decoration: none;
     font-size: 20px;
     transition: all 0.3s;
@@ -146,7 +145,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .vk:hover a {
-    color: #0550a5;
+    color: #5080ff;
 }
 
 .rules:hover a {
@@ -154,7 +153,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .forum:hover a {
-    color: #1061b3;
+    color: #1877d8;
 }
 
 .youtube:hover a {
@@ -162,7 +161,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .download:hover a {
-    color: #c93e31;
+    color: #ce60ff;
 }
 
 .support:hover a {
@@ -170,7 +169,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .donate:hover a {
-    color: aqua;
+    color: #2bffff;
 }
 
 .title1 {
